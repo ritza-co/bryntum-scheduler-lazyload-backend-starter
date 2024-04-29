@@ -1,6 +1,6 @@
-# Bryntum Scheduler LazyLoad backend starter
+# Bryntum Scheduler lazyLoad backend starter
 
-This repository holds the Express backend application to demonstrate how to use the lazy load feature available for the Bryntum Scheduler from version 6.
+This repository holds the Express backend application to demonstrate how to use the lazyLoad feature available for the Bryntum Scheduler from Version 6.
 
 ## Getting started 
 
@@ -22,4 +22,4 @@ Run the local development server for the backend server app using the following 
 npm start
 ```
 
-The server will listen on localhost port 3000
+The server will listen on localhost port 3000.
